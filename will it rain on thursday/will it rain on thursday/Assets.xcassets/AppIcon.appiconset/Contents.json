@@ -1,0 +1,38 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-12-09 16.05.59 - A concept sketch for an App Store icon designed for an app that predicts rain and displays compass reliability. The icon is a minimalist design featur.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "DALL·E 2024-12-09 16.05.59 - A concept sketch for an App Store icon designed for an app that predicts rain and displays compass reliability. The icon is a minimalist design featur 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "tinted"
+        }
+      ],
+      "filename" : "DALL·E 2024-12-09 16.05.59 - A concept sketch for an App Store icon designed for an app that predicts rain and displays compass reliability. The icon is a minimalist design featur 2.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
